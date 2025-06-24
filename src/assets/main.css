@@ -1,0 +1,11 @@
+@import './base.css';
+html {
+  font-family:
+    'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+    sans-serif;
+  font-size: 14px;
+}
+header,
+main {
+  padding: 14px 28px;
+}
